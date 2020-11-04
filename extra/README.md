@@ -1,3 +1,3 @@
-*This is an extra folder aside my market and business analysis projects*
+My interesting projects are at https://github.com/jmf-qf/financial_projects 
 
-In order to learn programming, practising problem-solving with code is far more beneficial than watching courses online. I recommend the book "Exercises for programmers: 57 challenges to develop your coding skills" and attach proposed solutions that helped to enhance my skills back when I was initiating in the field.
+This is an extra folder with resources for students that would like to learn to program. It includes books and my proposed solutions to problems; to learn programming, practising problem-solving with code is far more beneficial than watching courses online. 
